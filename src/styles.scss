@@ -1,1 +1,19 @@
-/* You can add global styles to this file, and also import other style files */
+.listado-usuarios {
+    border: 2px solid black;
+    padding: 10px;
+    background-color: grey; 
+    color: #fff; 
+}
+  
+.listado-usuarios ul {
+    list-style-type: none;
+    padding: 0;
+}
+  
+.listado-usuarios li {
+    margin-bottom: 10px;
+}
+  
+.listado-usuarios p {
+    margin: 0;
+}
